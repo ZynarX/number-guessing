@@ -3,7 +3,7 @@ A simple C# number guessing game!
 
 # How to play:
 
-1- Copy the code and paste it into your C# supported IDE (ppreferrably Visual Studio, or Visual Studio Code), in a `.cs` extension file.
+1- Copy the code and paste it into your C# supported IDE (preferrably Visual Studio, or Visual Studio Code), in a `.cs` extension file.
 
 2- Run the code
 
